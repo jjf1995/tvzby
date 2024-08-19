@@ -6,11 +6,33 @@ amc电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
 纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
 aisa Discovery,http://61.221.215.25:8800/hls/50/index.m3u8
-NHK World,http://61.221.215.25:8800/hls/51/index.m3u8
 八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
 八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 NHK World,http://61.221.215.25:8800/hls/58/index.m3u8
+TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS亚洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲台,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲台,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+TVBS亚洲台,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲台,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
+东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+东森美洲,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
+东森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3
 
 HK,#genre#
 凤凰卫视HD,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
@@ -18,7 +40,13 @@ HK,#genre#
 凤凰资讯HD,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰资讯HD,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
 凤凰香港HD,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-中国环球,http://live.cgtn.com/500/prog_index.m3u8
+无线新闻,http://r.jdshipin.com/CkuBd
+无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+有线新闻,http://61.10.2.141/live_freedirect/hd110_h.live/playlist.m3u8
+有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+VIUTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 香港亚洲卫视HD,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
 环球电视台HD,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
@@ -27,5 +55,10 @@ RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/st
 美亚电视HD,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
 MC,#genre#
-澳门Macau,http://grandprix2023.asuscomm.com:8891/bysid/96.m3u8
-澳视澳门,http://grandprix2023.asuscomm.com:8891/bysid/91.m3u8
+澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
+澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8?zgangd
+
+JP,#genre#
+NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+NHK World,http://61.221.215.25:8800/hls/51/index.m3u8
+
