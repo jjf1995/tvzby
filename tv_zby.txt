@@ -2103,29 +2103,16 @@ HGTV,https://food-dlvr-ott.akamaized.net/primary/4/c20e615a33504bc7a227077cb102a
 
 
 HK,#genre#
-凤凰卫视中文台,http://s.cdhongyuan.cn:4022/udp/239.93.0.162:2192
-凤凰卫视中文台,http://s.cdhongyuan.cn:4022/udp/239.93.1.9:2192
-凤凰卫视中文台,http://146.56.153.245:20121/bysid/258
-凤凰卫视资讯台,http://146.56.153.245:20121/bysid/257
-凤凰卫视香港台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-凤凰卫视香港台,http://124.244.149.194:65531/bysid/85
-香港亚洲卫视,https://p2hs.vzan.com/slowlive/821481626725612417/live.m3u8?zbid=2046370057&tpid=330913109&type=0
-环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-美亚电视,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-TVB翡翠台,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
-TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-TVB翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-TVB翡翠台,http://124.244.149.194:65530/bysid/1
-明珠台,http://124.244.149.194:65531/bysid/2
-明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
-TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-星空卫视,http://nas.jumping.wang:5555/udp/239.93.0.156:2193
-星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
+凤凰中文,https://cdn6.101.qzz.io/163189/fhzw
+凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx
+凤凰香港,https://cdn6.101.qzz.io/163189/fhhk
+无线功夫,https://cdn6.101.qzz.io/163189/yzwx
+翡翠台4K,https://cdn6.101.qzz.io/163189/fct4k
+翡翠台,https://cdn6.101.qzz.io/163189/fct
+TVBplus,https://cdn6.101.qzz.io/163189/tvbp
+无线新闻,https://cdn6.101.qzz.io/163189/wxxw
+HOY 77,https://cdn6.101.qzz.io/163189/hoy
+CCTV1,https://cdn6.101.qzz.io/163189/cctv1
 
 WORLD,#genre#
 NHKWorld,http://61.221.215.25:8800/hls/51/index.m3u8
