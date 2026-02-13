@@ -1,93 +1,92 @@
 📺央视频道,#genre#
-央视频道 ，#genre#
-CCTV1综合 ，http://hls.netlive.ggff.net/hls/cctv1.m3u8
-CCTV2财经 ，http://hls.netlive.ggff.net/hls/cctv2.m3u8
-CCTV3综艺 ，http://hls.netlive.ggff.net/hls/cctv3.m3u8
-CCTV4中文国际 ，http://hls.netlive.ggff.net/hls/cctv4.m3u8
-CCTV5体育 ，http://hls.netlive.ggff.net/hls/cctv5.m3u8
-CCTV5+体育赛事 ，http://hls.netlive.ggff.net/hls/cctv5p.m3u8
-CCTV6电影 ，http://hls.netlive.ggff.net/hls/cctv6.m3u8
-CCTV7国防军事 ，http://hls.netlive.ggff.net/hls/cctv7.m3u8
-CCTV8电视剧 ，http://hls.netlive.ggff.net/hls/cctv8.m3u8
-CCTV9纪录 ，http://hls.netlive.ggff.net/hls/cctv9.m3u8
-CCTV10科教 ，http://hls.netlive.ggff.net/hls/cctv10.m3u8
-CCTV11戏曲 ，http://hls.netlive.ggff.net/hls/cctv11.m3u8
-CCTV12社会与法 ，http://hls.netlive.ggff.net/hls/cctv12.m3u8
-CCTV13新闻 ，http://hls.netlive.ggff.net/hls/cctv13.m3u8
-CCTV14少儿 ，http://hls.netlive.ggff.net/hls/cctv14.m3u8
-CCTV15音乐 ，http://hls.netlive.ggff.net/hls/cctv15.m3u8
-CCTV16奥林匹克 ，http://hls.netlive.ggff.net/hls/cctv16.m3u8
-CCTV17农业农村 ，http://hls.netlive.ggff.net/hls/cctv17.m3u8
-CETV1教育 ，http://hls.netlive.ggff.net/hls/cetv1.m3u8
-CETV2教育 ，http://hls.netlive.ggff.net/hls/cetv2.m3u8
-CETV4教育 ，http://hls.netlive.ggff.net/hls/cetv4.m3u8
-CGTN英语 ，http://hls.netlive.ggff.net/hls/cgtn英语.m3u8
-CGTN纪录 ，http://hls.netlive.ggff.net/hls/cgtn纪录.m3u8
-CGTN俄语 ，http://hls.netlive.ggff.net/hls/cgtn俄语.m3u8
-CGTN法语 ，http://hls.netlive.ggff.net/hls/cgtn法语.m3u8
-CGTN西语 ，http://hls.netlive.ggff.net/hls/cgtn西语.m3u8
-CGTN阿语 ，http://hls.netlive.ggff.net/hls/cgtn阿语.m3u8
+CCTV1综合,http://hls.netlive.ggff.net/hls/cctv1.m3u8
+CCTV2财经,http://hls.netlive.ggff.net/hls/cctv2.m3u8
+CCTV3综艺,http://hls.netlive.ggff.net/hls/cctv3.m3u8
+CCTV4中文国际,http://hls.netlive.ggff.net/hls/cctv4.m3u8
+CCTV5体育,http://hls.netlive.ggff.net/hls/cctv5.m3u8
+CCTV5+体育赛事,http://hls.netlive.ggff.net/hls/cctv5p.m3u8
+CCTV6电影,http://hls.netlive.ggff.net/hls/cctv6.m3u8
+CCTV7国防军事,http://hls.netlive.ggff.net/hls/cctv7.m3u8
+CCTV8电视剧,http://hls.netlive.ggff.net/hls/cctv8.m3u8
+CCTV9纪录,http://hls.netlive.ggff.net/hls/cctv9.m3u8
+CCTV10科教,http://hls.netlive.ggff.net/hls/cctv10.m3u8
+CCTV11戏曲,http://hls.netlive.ggff.net/hls/cctv11.m3u8
+CCTV12社会与法,http://hls.netlive.ggff.net/hls/cctv12.m3u8
+CCTV13新闻,http://hls.netlive.ggff.net/hls/cctv13.m3u8
+CCTV14少儿,http://hls.netlive.ggff.net/hls/cctv14.m3u8
+CCTV15音乐,http://hls.netlive.ggff.net/hls/cctv15.m3u8
+CCTV16奥林匹克,http://hls.netlive.ggff.net/hls/cctv16.m3u8
+CCTV17农业农村,http://hls.netlive.ggff.net/hls/cctv17.m3u8
+CETV1教育,http://hls.netlive.ggff.net/hls/cetv1.m3u8
+CETV2教育,http://hls.netlive.ggff.net/hls/cetv2.m3u8
+CETV4教育,http://hls.netlive.ggff.net/hls/cetv4.m3u8
+CGTN英语,http://hls.netlive.ggff.net/hls/cgtn英语.m3u8
+CGTN纪录,http://hls.netlive.ggff.net/hls/cgtn纪录.m3u8
+CGTN俄语,http://hls.netlive.ggff.net/hls/cgtn俄语.m3u8
+CGTN法语,http://hls.netlive.ggff.net/hls/cgtn法语.m3u8
+CGTN西语,http://hls.netlive.ggff.net/hls/cgtn西语.m3u8
+CGTN阿语,http://hls.netlive.ggff.net/hls/cgtn阿语.m3u8
 
 
-📡卫视频道,#genre#
-江苏卫视 ，http://hls.netlive.ggff.net/hls/jsws.m3u8
-广东卫视 ，http://hls.netlive.ggff.net/hls/gdws.m3u8
-湖北卫视 ，http://hls.netlive.ggff.net/hls/hubws.m3u8
-湖南卫视 ，http://hls.netlive.ggff.net/hls/hunws.m3u8
-浙江卫视 ，http://hls.netlive.ggff.net/hls/zjws.m3u8
-东方卫视 ，http://hls.netlive.ggff.net/hls/dfws.m3u8
-北京卫视 ，http://hls.netlive.ggff.net/hls/bjws.m3u8
-深圳卫视 ，http://hls.netlive.ggff.net/hls/szws.m3u8
-东南卫视 ，http://hls.netlive.ggff.net/hls/dnws.m3u8
-山东卫视 ，http://hls.netlive.ggff.net/hls/sdws.m3u8
-安徽卫视 ，http://hls.netlive.ggff.net/hls/ahws.m3u8
-天津卫视 ，http://hls.netlive.ggff.net/hls/tjws.m3u8
-辽宁卫视 ，http://hls.netlive.ggff.net/hls/lnws.m3u8
-江西卫视 ，http://hls.netlive.ggff.net/hls/jxws.m3u8
-河北卫视 ，http://hls.netlive.ggff.net/hls/hbws.m3u8
-重庆卫视 ，http://hls.netlive.ggff.net/hls/cqws.m3u8
-贵州卫视 ，http://hls.netlive.ggff.net/hls/gzws.m3u8
-吉林卫视 ，http://hls.netlive.ggff.net/hls/jlws.m3u8
-四川卫视 ，http://hls.netlive.ggff.net/hls/scws.m3u8
-海南卫视 ，http://hls.netlive.ggff.net/hls/hinws.m3u8
-河南卫视 ，http://hls.netlive.ggff.net/hls/hnws.m3u8
-广西卫视 ，http://hls.netlive.ggff.net/hls/gxws.m3u8
-山西卫视 ，http://hls.netlive.ggff.net/hls/sxiws.m3u8
-云南卫视 ，http://hls.netlive.ggff.net/hls/ynws.m3u8
-陕西卫视 ，http://hls.netlive.ggff.net/hls/sxws.m3u8
-甘肃卫视 ，http://hls.netlive.ggff.net/hls/gsws.m3u8
-宁夏卫视 ，http://hls.netlive.ggff.net/hls/nxws.m3u8
-青海卫视 ，http://hls.netlive.ggff.net/hls/qhws.m3u8
-新疆卫视 ，http://hls.netlive.ggff.net/hls/xjws.m3u8
-西藏卫视 ，http://hls.netlive.ggff.net/hls/xzws.m3u8
-黑龙江卫视 ，http://hls.netlive.ggff.net/hls/hljws.m3u8
-内蒙古卫视 ，http://hls.netlive.ggff.net/hls/nmgws.m3u8
-大湾区卫视 ，http://hls.netlive.ggff.net/hls/dwqws.m3u8
+📡卫视频道#genre#
+江苏卫视,http://hls.netlive.ggff.net/hls/jsws.m3u8
+广东卫视,http://hls.netlive.ggff.net/hls/gdws.m3u8
+湖北卫视,http://hls.netlive.ggff.net/hls/hubws.m3u8
+湖南卫视,http://hls.netlive.ggff.net/hls/hunws.m3u8
+浙江卫视,http://hls.netlive.ggff.net/hls/zjws.m3u8
+东方卫视,http://hls.netlive.ggff.net/hls/dfws.m3u8
+北京卫视,http://hls.netlive.ggff.net/hls/bjws.m3u8
+深圳卫视,http://hls.netlive.ggff.net/hls/szws.m3u8
+东南卫视,http://hls.netlive.ggff.net/hls/dnws.m3u8
+山东卫视,http://hls.netlive.ggff.net/hls/sdws.m3u8
+安徽卫视,http://hls.netlive.ggff.net/hls/ahws.m3u8
+天津卫视,http://hls.netlive.ggff.net/hls/tjws.m3u8
+辽宁卫视,http://hls.netlive.ggff.net/hls/lnws.m3u8
+江西卫视,http://hls.netlive.ggff.net/hls/jxws.m3u8
+河北卫视,http://hls.netlive.ggff.net/hls/hbws.m3u8
+重庆卫视,http://hls.netlive.ggff.net/hls/cqws.m3u8
+贵州卫视,http://hls.netlive.ggff.net/hls/gzws.m3u8
+吉林卫视,http://hls.netlive.ggff.net/hls/jlws.m3u8
+四川卫视,http://hls.netlive.ggff.net/hls/scws.m3u8
+海南卫视,http://hls.netlive.ggff.net/hls/hinws.m3u8
+河南卫视,http://hls.netlive.ggff.net/hls/hnws.m3u8
+广西卫视,http://hls.netlive.ggff.net/hls/gxws.m3u8
+山西卫视,http://hls.netlive.ggff.net/hls/sxiws.m3u8
+云南卫视,http://hls.netlive.ggff.net/hls/ynws.m3u8
+陕西卫视,http://hls.netlive.ggff.net/hls/sxws.m3u8
+甘肃卫视,http://hls.netlive.ggff.net/hls/gsws.m3u8
+宁夏卫视,http://hls.netlive.ggff.net/hls/nxws.m3u8
+青海卫视,http://hls.netlive.ggff.net/hls/qhws.m3u8
+新疆卫视,http://hls.netlive.ggff.net/hls/xjws.m3u8
+西藏卫视,http://hls.netlive.ggff.net/hls/xzws.m3u8
+黑龙江卫视,http://hls.netlive.ggff.net/hls/hljws.m3u8
+内蒙古卫视,http://hls.netlive.ggff.net/hls/nmgws.m3u8
+大湾区卫视,http://hls.netlive.ggff.net/hls/dwqws.m3u8
 
 其他频道#genre#
-每日经济新闻 ，http://hls.netlive.ggff.net/hls/mrjjxw.m3u8
-财富天下 ，http://hls.netlive.ggff.net/hls/cftx.m3u8
-第一财经 ，http://hls.netlive.ggff.net/hls/dycj.m3u8
-点掌财经 ，http://hls.netlive.ggff.net/hls/dzcj.m3u8
-魔都眼 ，http://hls.netlive.ggff.net/hls/sh_mdy.m3u8
-金鹰纪实 ，http://hls.netlive.ggff.net/hls/jyjs.m3u8
-中国天气 ，http://hls.netlive.ggff.net/hls/zgtq.m3u8
-环球旅游 ，http://hls.netlive.ggff.net/hls/hqly.m3u8
-四海钓鱼 ，http://hls.netlive.ggff.net/hls/shdy.m3u8
-五星体育 ，http://hls.netlive.ggff.net/hls/wxty.m3u8
-江苏体育 ，http://hls.netlive.ggff.net/hls/jsty.m3u8
-广东体育 ，http://hls.netlive.ggff.net/hls/gdty.m3u8
-都市剧场 ，http://hls.netlive.ggff.net/hls/dsjc.m3u8
-第一剧场 ，http://hls.netlive.ggff.net/hls/dyjc.m3u8
-江苏影视 ，http://hls.netlive.ggff.net/hls/jsys.m3u8
-广东影视 ，http://hls.netlive.ggff.net/hls/gdys.m3u8
-谍战剧场 ，http://hls.netlive.ggff.net/hls/dzjc.m3u8
-风云足球 ，http://hls.netlive.ggff.net/hls/fyzq.m3u8
-风云音乐 ，http://hls.netlive.ggff.net/hls/fyyy.m3u8
-老故事频道 ，http://hls.netlive.ggff.net/hls/lgs.m3u8
-CHC家庭影院 ，http://hls.netlive.ggff.net/hls/jtyy.m3u8
-CHC动作电影 ，http://hls.netlive.ggff.net/hls/dzdy.m3u8
-CHC影迷电影 ，http://hls.netlive.ggff.net/hls/ymdy.m3u8
+每日经济新闻,http://hls.netlive.ggff.net/hls/mrjjxw.m3u8
+财富天下,http://hls.netlive.ggff.net/hls/cftx.m3u8
+第一财经,http://hls.netlive.ggff.net/hls/dycj.m3u8
+点掌财经,http://hls.netlive.ggff.net/hls/dzcj.m3u8
+魔都眼,http://hls.netlive.ggff.net/hls/sh_mdy.m3u8
+金鹰纪实,http://hls.netlive.ggff.net/hls/jyjs.m3u8
+中国天气,http://hls.netlive.ggff.net/hls/zgtq.m3u8
+环球旅游,http://hls.netlive.ggff.net/hls/hqly.m3u8
+四海钓鱼,http://hls.netlive.ggff.net/hls/shdy.m3u8
+五星体育,http://hls.netlive.ggff.net/hls/wxty.m3u8
+江苏体育,http://hls.netlive.ggff.net/hls/jsty.m3u8
+广东体育,http://hls.netlive.ggff.net/hls/gdty.m3u8
+都市剧场,http://hls.netlive.ggff.net/hls/dsjc.m3u8
+第一剧场,http://hls.netlive.ggff.net/hls/dyjc.m3u8
+江苏影视,http://hls.netlive.ggff.net/hls/jsys.m3u8
+广东影视,http://hls.netlive.ggff.net/hls/gdys.m3u8
+谍战剧场,http://hls.netlive.ggff.net/hls/dzjc.m3u8
+风云足球,http://hls.netlive.ggff.net/hls/fyzq.m3u8
+风云音乐,http://hls.netlive.ggff.net/hls/fyyy.m3u8
+老故事频道,http://hls.netlive.ggff.net/hls/lgs.m3u8
+CHC家庭影院,http://hls.netlive.ggff.net/hls/jtyy.m3u8
+CHC动作电影,http://hls.netlive.ggff.net/hls/dzdy.m3u8
+CHC影迷电影,http://hls.netlive.ggff.net/hls/ymdy.m3u8
 
 TW,#genre#
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
