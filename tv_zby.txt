@@ -15,8 +15,8 @@ CCTV-12社会与法,http://120.202.73.48:8888/tsfile/live/0012_1.m3u8?key=txiptv
 CCTV-13新闻,http://120.202.73.48:8888/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0#http://120.202.94.181:9446/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0#http://112.27.235.94:8000/hls/14/index.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-14少儿,http://183.190.223.196:888/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0#http://120.202.94.181:9446/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0#http://112.99.195.122:65000/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0#http://112.27.235.94:8000/hls/15/index.m3u8
 CCTV-15音乐,http://120.202.73.48:8888/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0#http://120.202.94.181:9446/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0#http://112.27.235.94:8000/hls/16/index.m3u8#https://piccpndks.v.kcdnvip.com/audio/cctv15_2/index.m3u8
+CCTV-16奥林匹克,https://piccpndks.v.kcdnvip.com/audio/cctv16_2/index.m3u8
 CGTN,https://english-livebkali.cgtn.com/live/encgtn_0.m3u8#https://0472.org/hls/cgtn.m3u8
-CCTV奥林匹克频道,https://piccpndks.v.kcdnvip.com/audio/cctv16_2/index.m3u8
 CGTN纪录,https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8#https://0472.org/hls/cgtnd.m3u8#https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8#http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd.m3u8
@@ -70,18 +70,15 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 凤凰卫视中文台,http://r.jdshipin.com/cCCzW#http://cdn6.163189.xyz/163189/fhzw
 凤凰卫视资讯台,http://r.jdshipin.com/0Rp07#http://cdn6.163189.xyz/163189/fhzx
 凤凰卫视香港台,http://r.jdshipin.com/yDoTN#http://cdn6.163189.xyz/163189/fhhk
-澳门体育,http://cdn6.163189.xyz/163189/amty
-韩国EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8
+澳视体育,http://cdn6.163189.xyz/163189/amty
 韩国阿里郎,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-Beautiful Life TV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-CH5,https://cdn6.163189.xyz/163189/ch5
-CHU,https://cdn6.163189.xyz/163189/chu
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-NOW NEWS,http://cdn.163189.xyz/163189/now
-今日俄罗斯,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8#https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+新传媒5频道,https://cdn6.163189.xyz/163189/ch5
+新传媒U频道,https://cdn6.163189.xyz/163189/chu
+亚洲新闻台CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+NOW新闻台,http://cdn.163189.xyz/163189/now
 TVB Plus,http://r.jdshipin.com/Nr5jq
 WionNews,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 澳视卫星,https://cdn6.163189.xyz/163189/as
 澳视澳门,https://cdn6.163189.xyz/163189/asam
 环球电视,http://utv1.hqtvzb.com:9999/hls/world.m3u8
-美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
