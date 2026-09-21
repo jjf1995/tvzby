@@ -13,6 +13,9 @@
 
 香港,#genre#
 中国环球电视台,http://utv1.hqtvzb.com:9999/hls/world.m3u8
+翡翠台(WebVTT字幕),http://r.jdshipin.com/62WM7
+明珠台(WebVTT字幕),http://r.jdshipin.com/jUx8K
+TVB Plus(WebVTT字幕),http://r.jdshipin.com/ndGgS
 
 国际,#genre#
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
