@@ -40,5 +40,6 @@ Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
+ELEVEN体育3,rtmp://f13h.mine.nu/sat/tv751
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 
