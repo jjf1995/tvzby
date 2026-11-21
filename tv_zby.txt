@@ -16,6 +16,7 @@
 翡翠台,http://r.jdshipin.com/62WM7
 明珠台,http://r.jdshipin.com/jUx8K
 TVB Plus,http://r.jdshipin.com/ndGgS
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 
 国际,#genre#
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -36,11 +37,16 @@ Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来体育,https://hlsz.yjjcfw.com/live/vl.m3u8?expire=1786948372&sign=2e4a56b89fe644db147552011f972714
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 ELEVEN体育3,rtmp://f13h.mine.nu/sat/tv751
+好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+CGN中文台,https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+TITV,https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+Pet Club TV,https://petclub-samsungaus.amagi.tv/playlist.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 
