@@ -28,6 +28,13 @@ CNN,https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73
 
 韩国,#genre#
 Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+KBS World,https://stream8.cinerama.uz/1448/tracks-v1a1/mono.m3u8
+FGTV,https://fgtvlive.fgtv.com/smil:fgtv.smil/chunklist_b1128000.m3u8
+OUN,https://live.knou.ac.kr/knou1/live1/chunklist.m3u8?solsessionid=d4e904754b681f621f11bccc9eee43c5
+
+日本,#genre#
+日テレNEWS (ニュース／報道),https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
+ムビドラTV (映画),https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-moviecmaf-rakutenjp/playlist.m3u8
 
 台湾,#genre#
 台视,rtmp://f13h.mine.nu/sat/tv071
